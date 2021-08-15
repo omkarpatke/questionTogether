@@ -28,10 +28,12 @@ console.log("Let's Play a Game With Omkar , \nHow Do You Know Omkar? \n")
 
 
  }
- 
  play("Where Omkar Live? ","parner");
  play("Which is Favorite Game of Omkar? ","basketball");
  play("Which is Omkar Favorite Subject? ","GK");
+ play("What is omkar surname?","patke");
+ play("What is omkar birth year?","2002");
+ 
  
 
  console.log("Thank You For Plying With Me \nHope You Enjoy It.")
