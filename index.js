@@ -36,4 +36,7 @@ console.log("Let's Play a Game With Omkar , \nHow Do You Know Omkar? \n")
  
  
 
- console.log("Thank You For Plying With Me \nHope You Enjoy It.")
+ console.log("Thank You For Plying With Me")
+ console.log("Your final score is" ,score)
+ console.log("Hope You Enjoy It.")
+
